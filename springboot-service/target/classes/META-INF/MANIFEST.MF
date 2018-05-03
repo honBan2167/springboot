@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-service
+Implementation-Version: 0.0.1-SNAPSHOT-NEW
+Built-By: wb-chb362869
+Implementation-Vendor-Id: com.springboot
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot/springboot-service
+Created-By: Maven Integration for Eclipse
+
